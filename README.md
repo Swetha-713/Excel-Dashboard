@@ -1,5 +1,4 @@
-  🛒 Supermarket Sales Dashboard – Excel Project
-
+🛒 Supermarket Sales Dashboard – Excel Project
 📊 Excel Dashboard | 🧾 Sales Analytics | 📈 Forecasting | 🔍 Business Insights
 
 📌 Project Overview
