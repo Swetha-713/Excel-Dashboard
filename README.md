@@ -1,10 +1,12 @@
 🛒 Supermarket Sales Dashboard – Excel Project
 📊 Excel Dashboard | 🧾 Sales Analytics | 📈 Forecasting | 🔍 Business Insights
 
-📌 Project Overview
+📌 Project Overview:
+
 The **Supermarket Sales Dashboard** is an interactive and dynamic **Excel-based project** designed to visualize and analyze supermarket sales data across various U.S. states. This dashboard offers key business insights related to sales performance, regions, segments, product categories, and delivery methods.
 
-🧾 Key Features
+🧾 Key Features:
+
 - 📅 **Yearly Sales Comparison** (2019 vs 2020)
 - 🌍 **State-wise Sales Performance**
 - 💳 **Payment Method Breakdown** (COD, Online, Cards)
@@ -14,9 +16,11 @@ The **Supermarket Sales Dashboard** is an interactive and dynamic **Excel-based 
 - 📈 **15-Day Sales Forecasting** (Trendline using Excel Charts)
 - 🎯 **Interactive Charts and Pivot Tables**
 
-📂 Dataset Summary
+📂 Dataset Summary:
+
 - **Time Period**: January 2019 – January 2021  
-- **Location**: U.S. States  
+- **Location**: U.S. States
+-  
 - **Fields Included**:
   - Sales Amount
   - Order Date & Ship Mode
@@ -26,7 +30,8 @@ The **Supermarket Sales Dashboard** is an interactive and dynamic **Excel-based 
   - Payment Method
   - Forecasted Values
 
-📍 Key Insights
+📍 Key Insights:
+
 - **California** had the highest sales (~₹335K).
 - **Technology** was the top-performing category (₹0.64M).
 - **West Region** led with 33% of total sales.
@@ -34,14 +39,16 @@ The **Supermarket Sales Dashboard** is an interactive and dynamic **Excel-based 
 - **Consumer Segment** dominated with 48% of sales.
 - States like **West Virginia**, **Maine**, and **D.C.** showed the lowest performance.
 
-🛠️ Tools & Techniques Used
+🛠️ Tools & Techniques Used 
+
 - ✅ Excel Pivot Tables
 - ✅ Pivot Charts & Bar Graphs
 - ✅ Slicers for interactivity
 - ✅ IF, SUMIFS, AVERAGEIFS formulas
 - ✅ Line Charts with Trendlines (for forecasting)
 
-🚀 How to Use
+🚀 How to Use ?
+
 1. Open the Excel file: `SM_Sales_Dashboard.xlsx`.
 2. Navigate using the slicers to filter by **Year**, **Region**, **Segment**, etc.
 3. View KPIs, charts, and graphs to get data-driven insights.
